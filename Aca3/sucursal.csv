@@ -1,0 +1,6 @@
+NombreFarmacia;NIT;PaginaWeb;Correo;CantidadProductoVendidoNacional;CantidadClientesAtendidosNacional;TotalVentasNacional;Ciudad;NombreSucursal;Direccion;Telefono;CantidadProductoVendidoSucursal;CantidadClientesAtendidosSucursal;TotalVentasSucursal;AumentoPrecio
+Farmacia de Pociones Mágicas;123456789;www.farmaciapocionesmagicas.com;info@farmaciapocionesmagicas.com;0;0;0.0;Bogotá;Sucursal de Pociones en Bogotá;Calle de las Pociones 123;555-1234;0;0;0.0;0.44
+Farmacia de Pociones Mágicas;123456789;www.farmaciapocionesmagicas.com;info@farmaciapocionesmagicas.com;0;0;0.0;Medellín;Sucursal de Pociones en Medellín;Calle de las Pociones 456;555-5678;0;0;0.0;0.38
+Farmacia de Pociones Mágicas;123456789;www.farmaciapocionesmagicas.com;info@farmaciapocionesmagicas.com;0;0;0.0;Cartagena;Sucursal de Pociones en Cartagena;Avenida de las Pociones 789;555-6789;0;0;0.0;0.35
+Farmacia de Pociones Mágicas;123456789;www.farmaciapocionesmagicas.com;info@farmaciapocionesmagicas.com;0;0;0.0;Cali;Sucursal de Pociones en Cali;Calle de las Pociones 101;555-1122;0;0;0.0;0.35
+Farmacia de Pociones Mágicas;123456789;www.farmaciapocionesmagicas.com;info@farmaciapocionesmagicas.com;0;0;0.0;Barranquilla;Sucursal de Pociones en Barranquilla;Avenida de las Pociones 222;555-3344;0;0;0.0;0.3

@@ -1,0 +1,11 @@
+Codigo,Nombre,Descripcion,ComponentesBase,Precio
+001,Poción Curativa,Restaura la salud mágica,Ingredientes curativos,100.0
+002,Elixir de Fortaleza,Aumenta la resistencia mágica,Hierbas fortificantes,150.0
+003,Antídoto Venenoso,Neutraliza venenos mágicos,Ingredientes antitóxicos,80.0
+004,Poción de Sueño Profundo,Induce un sueño reparador,Hierbas somníferas,120.0
+005,Poción Revitalizante,Revitaliza la energía mágica,Ingredientes energizantes,70.0
+006,Elixir de Clarividencia,Mejora la percepción mágica,Hierbas visionarias,140.0
+007,Poción Calmante,Calma los nervios mágicos,Ingredientes relajantes,90.0
+008,Elixir del Tiempo,Ajusta la percepción temporal,Ingredientes temporales,110.0
+009,Poción Resplandeciente,Ilumina la oscuridad mágica,Ingredientes luminiscentes,60.0
+010,Elixir de Serenidad,Promueve la calma interior,Hierbas tranquilizadoras,130.0
